@@ -27,7 +27,7 @@ A free, open-source Windows desktop application that provides intelligent techni
 git clone https://github.com/nam20485/support-assistant2.git
 cd support-assistant2
 
-# Download AI model (see AI_SETUP.md for details)
+# Download AI model (see docs/AI_SETUP.md for details)
 # Place phi3-mini.onnx in assets/models/
 
 # Build and run
